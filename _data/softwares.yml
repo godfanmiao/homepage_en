@@ -1,0 +1,45 @@
+- title: VMap-SCam：基于单目前视相机的车端实时矢量化高精地图生成软件（V1.0）
+  authors: 范淼、姚毅
+  url: 
+  description: 中国计算机软件著作权登记号：XXXX
+
+- title: VMap-MCam：基于车载多路相机的在线高精矢量化地图生成软件（V1.0）
+  authors: 姚毅、范淼
+  url: 
+  description: 中国计算机软件著作权登记号：XXXX
+
+- title: VMap-Fusion：矢量化高精地图的多轮融合生成软件（V1.0）
+  authors: 范淼、姚毅、宋向勃
+  url: 
+  description: 中国计算机软件著作权登记号：XXXX
+
+- title: UNiNet-Pro：高精地图通用目标的云上一体视觉感知平台（V1.0）
+  authors: 范淼、姚毅、宋向勃、李翔
+  url: 
+  description: 中国计算机软件著作权登记号：XXXX 
+
+- title: UNiNet-Lite：高精地图通用目标的端上一体视觉感知系统（V1.0）
+  authors: 范淼、姚毅、宋向勃、李翔
+  url: 
+  description: 中国计算机软件著作权登记号：XXXX
+
+- title: UNiNet-Backbone：高精地图全要素的视觉自注意学习与大规模挖掘平台（V1.0/V2.0）
+  authors: 范淼、姚毅、孔旭旭
+  url: https://banquan.tianyancha.com/rj/94c71cco33f284b2d395d818fl351528
+  description: 中国计算机软件著作权登记号：2023SR0762065 / 2023SR1021672
+
+- title: UNiNet-Cls：自然场景下交通标志的实时视觉识别软件（V1.0）
+  authors: 范淼、姚毅
+  url: https://banquan.tianyancha.com/rj/94cove9994ee8407572039193l6fva08
+  description: 中国计算机软件著作权登记号：2023SR1029817
+
+- title: UNiNet-Seg：自然场景下道路要素的实时视觉分割与提取软件（V1.0）
+  authors: 姚毅、范淼
+  url: 
+  description: 中国计算机软件著作权登记号：XXXX
+
+- title: UNiNet-Det：自然场景下道路目标的实时视觉检测软件（V1.0）
+  authors: 姚毅、范淼、宋向勃
+  url: 
+  description: 中国计算机软件著作权登记号：XXXX
+

@@ -21,7 +21,7 @@ resume_contact_telephone:       "(+86)13581700448"
 resume_contact_address:         "Beijing, P.R.China"
 
 resume_header_contact_info:     "(+86)13581700448 & fm12@tsinghua.org.cn"
-display_header_contact_info:    "true"
+display_header_contact_info:    "false"
 
 resume_header_intro: "
 <p>Principle scientist and Head of AIG at Navinfo Co., Ltd</p>

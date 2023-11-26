@@ -20,7 +20,7 @@ resume_contact_email:           "fm12@tsinghua.org.cn"
 resume_contact_telephone:       "(+86)13581700448"
 resume_contact_address:         "Beijing, P.R.China"
 
-resume_header_contact_info:     "True"
+resume_header_contact_info:     "true"
 display_header_contact_info:    "false"
 
 resume_header_intro: "

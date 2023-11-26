@@ -23,9 +23,9 @@ resume_contact_address:         "Beijing, P.R.China"
 resume_header_contact_info:     ""
 display_header_contact_info:    "false"
 
-resume_header_intro: "
-
-<p>Principle scientist and lead of AICG at Navinfo Co., Ltd</p>
+resume_header_intro: 
+"
+<p>Principle scientist and lead of AIG at Navinfo Co., Ltd</p>
 
 <p>Adjunct associate professor of Renmin University of China</p>
 
@@ -33,7 +33,7 @@ resume_header_intro: "
 
 <p>Ph.D. on Computer Science of Tsinghua University</p>
 
-<p>Author of books: "Machine Learning with Python" and "AI Programming with Python in Practice"</p>
+<p>Author of books: \"Machine Learning with Python\" and \"AI Programming with Python in Practice\"</p>
 
 <p>20+ top-tier papers with 1200+ citations on google scholar</p>
 

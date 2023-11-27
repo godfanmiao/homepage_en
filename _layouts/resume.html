@@ -61,7 +61,6 @@
                   <div class="resume-item" itemscope itemprop="worksFor" itemtype="http://schema.org/Organization">
                       <h3>&bull; {% if job.url %}<a href="{{ job.url }}">{{ job.company }} </a>{% else %}{{ job.company }}{% endif %}</h3>
                       <p>{{ job.position }} （{{ job.duration }}）</p>
-        
                   </div><!-- end of resume-item -->
                   {% endfor %}
               </section>
@@ -137,9 +136,8 @@
 
                   {% for association in site.data.associations %}
                   <div class="resume-item" itemscope itemprop="memberOf" itemtype="http://schema.org/Organization">
-                      <h3>&bull; {{ association.organization }}</h3>
-                      <h4>{% if association.url %}<a href="{{ association.url }}">{{ association.role }} </a>{% else %}{{ association.role }}{% endif %} </h4>
-                      <p class="resume-item-copy">{{ association.summary }}</p>
+                      <h3> {% if association.url %}<a href="{{ association.url }}"> </a>{{ association.organization }} </a>{% else %}{{ association.organization }}{% endif %}</h3>
+                      <p>{{ association.role }}  </p>
                   </div>
                   {% endfor %}
 

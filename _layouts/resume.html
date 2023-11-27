@@ -136,7 +136,7 @@
 
                   {% for association in site.data.associations %}
                   <div class="resume-item" itemscope itemprop="memberOf" itemtype="http://schema.org/Organization">
-                      <h3> {% if association.url %}<a href="{{ association.url }}"> </a>{{ association.organization }} </a>{% else %}{{ association.organization }}{% endif %}</h3>
+                      <h3> {% if association.url %} <a href="{{ association.url }}"> {{ association.organization }} </a>{% else %}{{ association.organization }}{% endif %}</h3>
                       <p>{{ association.role }}  </p>
                   </div>
                   {% endfor %}

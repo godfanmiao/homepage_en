@@ -1,8 +1,6 @@
-- name: MOBIUS：The Next Generation of Query-Ad Matching Platform for Baidu's Sponsored Search
+- name: Personalized POI Auto-completion System at Baidu Search
   role: Tech lead 
-  desc: The Mobius project is the first attempt to train the matching layer which considers CPM as an additional optimization objective besides the query-ad relevance, via directly predicting CTR (click-through rate) from billions of query-ad pairs. 
-  Active learning is adopted to overcome the insufficiency of click history at the matching layer when training our neural click networks offline. And we use the SOTA ANN search technique for retrieving ads more efficiently (Here "ANN" stands for approximate nearest
-  neighbor search). Mobius leads to a major improvement of CPM by 3.8% on the Baidu App and 3.5% on the Baidu Search, which are the main portals of our sponsored search engine.
+  desc: "CTO Award" Project in 2019 at Baidu Inc. Point of interest auto-completion (POI-AC) is a featured function in the search engine of many Web mapping services. This function keeps suggesting a dynamic list of POIs as a user types each character, and it can dramatically save the effort of typing, which is quite useful on mobile devices. Personalized POI-AC contains our 3 attempts on taking historically clicked POIs, the prefixes and spatial-temporal features of a user into account for personalization. So far, personalized POI-AC serves nearly 80% users (tens of millions of users) at Baidu Maps everyday, saving 30% efforts on typing.
 
 - name: Research on crowdsourcing update technology for HD maps with autonomous vehciles
   role: Tech lead

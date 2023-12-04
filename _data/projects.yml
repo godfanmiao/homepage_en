@@ -1,4 +1,4 @@
-- name: Personalized POI Auto Completion System at Baidu Search
+- name: Personalized POI Auto-completion System at Baidu Search
   role: Tech lead 
   description: CTO Award in 2019 at Baidu Inc. Point of interest auto-completion (POI-AC) is a featured function in the search engine of many Web mapping services. This function keeps suggesting a dynamic list of POIs as a user types each character, and it can dramatically save the effort of typing, which is quite useful on mobile devices. Personalized POI-AC contains our 3 attempts on taking historically clicked POIs, the prefixes and spatial-temporal features of a user into account for personalization. So far, personalized POI-AC serves nearly 80% users (tens of millions of users) at Baidu Maps everyday, saving 30% efforts on typing.
 
@@ -6,11 +6,11 @@
   role: Tech lead
   description: CTO Award in 2020 at Baidu Inc.
 
-- name: 
+- name: Multisensor-based Object Fusion, Tracking and Prediction for Autonomous Driving at Momenta
   role: Tech lead & Manager
   description: 
 
-- name: 
+- name: Neural HD Map Generation from Vehicle at Navinfo Co., Ltd.
   role: Tech lead & Manager
   description: 
 

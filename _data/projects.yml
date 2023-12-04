@@ -1,16 +1,16 @@
-- name: Personalized POI Auto completion System at Baidu Search
+- name: Personalized POI Auto\-Completion System at Baidu Search
   role: Tech lead 
-  description: CTO Award in 2019 at Baidu Inc. 
+  description: CTO Award in 2019 at Baidu Inc.
 
-# - name: Towards Automatic Verification of Large-Scale POIs with Street Views at Baidu Maps
-#   role: Tech lead
-#   description: "CTO Award" in 2020 at Baidu Inc.
+- name: Towards Automatic Verification of Large\-Scale POIs with Street Views at Baidu Maps
+  role: Tech lead
+  description: "CTO Award" in 2020 at Baidu Inc.
 
-# - name: Research on crowdsourcing update technology for HD maps with autonomous vehciles
-#   role: Tech lead & Manager
-#   description: "CTO Award" in 2019 at Baidu Inc. 
+- name: Research on crowdsourcing update technology for HD maps with autonomous vehciles
+  role: Tech lead & Manager
+  description: "CTO Award" in 2019 at Baidu Inc. 
 
-# - name: Research on crowdsourcing update technology for HD maps with autonomous vehciles
-#   role: Tech lead & Manager
-#   description: "CTO Award" in 2019 at Baidu Inc. 
+- name: Research on crowdsourcing update technology for HD maps with autonomous vehciles
+  role: Tech lead & Manager
+  description: "CTO Award" in 2019 at Baidu Inc. 
 

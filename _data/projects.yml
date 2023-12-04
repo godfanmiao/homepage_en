@@ -1,9 +1,18 @@
-- name: Research on big data processing and analysis system for autonomous driving
-  role: Principal Investigator 
+- name: MOBIUS：The Next Generation of Query-Ad Matching Platform for Baidu's Sponsored Search
+  role: Tech lead 
+  desc: The Mobius project is the first attempt to train the matching layer which considers CPM as an additional optimization objective besides the query-ad relevance, via directly predicting CTR (click-through rate) from billions of query-ad pairs. 
+  Active learning is adopted to overcome the insufficiency of click history at the matching layer when training our neural click networks offline. And we use the SOTA ANN search technique for retrieving ads more efficiently (Here "ANN" stands for approximate nearest
+  neighbor search). Mobius leads to a major improvement of CPM by 3.8% on the Baidu App and 3.5% on the Baidu Search, which are the main portals of our sponsored search engine.
+
+- name: Research on crowdsourcing update technology for HD maps with autonomous vehciles
+  role: Tech lead
   desc: 
 
 - name: Research on crowdsourcing update technology for HD maps with autonomous vehciles
-  role: Co-Principal Investigator
+  role: Tech lead & Manager
   desc: 
 
+- name: Research on crowdsourcing update technology for HD maps with autonomous vehciles
+  role: Tech lead & Manager
+  desc: 
 

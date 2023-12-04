@@ -96,8 +96,8 @@
                   {% for project in site.data.projects %}
                   <div class="resume-item" itemscope itemprop="memberOf" itemtype="http://schema.org/Organization">
                       <h3>&bull; {{ project.name }}</h3>
-                      <h4>{% if project.url %}<a href="{{ project.url }}">{{ project.organization }} </a>{% else %}{{ project.organization }}{% endif %} </h4>
-                      <p class="resume-item-copy">{{ project.role }}</p>
+                      <h4>{{ project.role }} </h4>
+                      <p class="resume-item-copy">{{ project.desc }}</p>
                   </div>
                   {% endfor %}
               </section>

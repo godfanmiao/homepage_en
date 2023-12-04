@@ -90,7 +90,7 @@
               <section class="content-section">
 
                   <header class="section-header">
-                      <h2>Research Grants</h2>
+                      <h2>Key Projects</h2>
                   </header>
 
                   {% for project in site.data.projects %}
@@ -100,10 +100,26 @@
                       <p class="resume-item-copy">{{ project.role }}</p>
                   </div>
                   {% endfor %}
-
               </section>
-              <!-- end Associations -->
               {% endif %}
+
+              {% if site.resume_section_grants %}
+              <section class="content-section">
+
+                  <header class="section-header">
+                      <h2>Research Grants</h2>
+                  </header>
+
+                  {% for grant in site.data.grants %}
+                  <div class="resume-item" itemscope itemprop="memberOf" itemtype="http://schema.org/Organization">
+                      <h3>&bull; {{ grant.name }}</h3>
+                      <h4>{% if grant.url %}<a href="{{ grant.url }}">{{ grant.organization }} </a>{% else %}{{ grant.organization }}{% endif %} </h4>
+                      <p class="resume-item-copy">{{ grant.role }}</p>
+                  </div>
+                  {% endfor %}
+              </section>
+              {% endif %}
+
 
               {% if site.resume_section_monographs %}
               <!-- begin Projects -->

@@ -21,7 +21,7 @@ resume_contact_email:           "fm12@tsinghua.org.cn"
 # resume_contact_address:         "Beijing, P.R.China"
 
 resume_header_contact_info:     "fm12@tsinghua.org.cn"
-display_header_contact_info:    "true"
+display_header_contact_info:    "false"
 
 resume_header_intro: "
 <p>Principle scientist and Head of AI at Navinfo Co., Ltd</p>

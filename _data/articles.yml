@@ -68,6 +68,11 @@
   url: https://dl.acm.org/doi/pdf/10.1145/3340531.3412101
   source: CIKM'20. [C]
 
+- title: A Multistage Ranking Strategy for Personalized Hotel Recommendation with Human Mobility Data
+  authors: Yiwei Li, Miao Fan, Jizhou Huang, Kan Li
+  url: https://dl.acm.org/doi/abs/10.1145/3409256.3409810
+  source: ICTIR'20. [C]
+
 - title: MOBIUS：Towards the Next Generation of Query-Ad Matching in Baidu's Sponsored Search
   authors: Miao Fan, Jiacheng Guo, Shuai Zhu, Shuo Miao, Mingming Sun, Ping Li
   url: https://dl.acm.org/citation.cfm?id=3330651

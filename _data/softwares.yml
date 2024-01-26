@@ -3,20 +3,20 @@
   url: 
   description: Registration No. (CN)：2024SR0080866 
 
-- title: STVec：基于车载相机的高精矢量化街景在线生成软件（V1.0）
-  authors: 姚毅、范淼
-  url: 
-  description: Registration No. (CN)：XXXX
+# - title: STVec：基于车载相机的高精矢量化街景在线生成软件（V1.0）
+#   authors: 姚毅、范淼
+#   url: 
+#   description: Registration No. (CN)：XXXX
 
 - title: UNiNet-Pro：高精地图通用目标的云上一体视觉感知平台（V1.0）
   authors: 范淼、姚毅、宋向勃、李翔
   url: https://banquan.tianyancha.com/rj/947me7c44c8d767d001c1c1c2l69e568
   description: Registration No. (CN)：2023SR1508587
 
-- title: UNiNet-Lite：高精地图通用目标的端上一体视觉感知系统（V1.0）
-  authors: 范淼、姚毅、宋向勃、李翔
-  url: 
-  description: Registration No. (CN)：XXXX
+# - title: UNiNet-Lite：高精地图通用目标的端上一体视觉感知系统（V1.0）
+#   authors: 范淼、姚毅、宋向勃、李翔
+#   url: 
+#   description: Registration No. (CN)：XXXX
 
 - title: UNiNet-Backbone：高精地图全要素的视觉自注意学习与大规模挖掘平台（V1.0 & V2.0）
   authors: 范淼、姚毅、孔旭旭

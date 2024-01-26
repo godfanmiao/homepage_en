@@ -54,7 +54,7 @@ resume_section_grants:          true
 resume_section_monographs:        true
 resume_section_articles:        true
 resume_section_patents:        true
-# resume_section_softwares:        true
+resume_section_softwares:        true
 resume_section_media:        true
 resume_section_associations:    true
 

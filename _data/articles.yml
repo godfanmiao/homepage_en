@@ -1,16 +1,16 @@
 - title: Distributed Representation Learning for Knowledge Graphs with Entity Descriptions
   authors: Miao Fan, Qiang Zhou, Thomas Fang Zheng, Ralph Grishman
-  url: https://www.sciencedirect.com/science/article/abs/pii/S0167865516302380
+  url: 
   source: Pattern Recognition Letters, Elsevier. [J]
 
 - title: Probabilistic Belief Embedding for Large-Scale Knowledge Population
   authors: Miao Fan, Qiang Zhou, Andrew Abel, Thomas Fang Zheng, Ralph Grishman
-  url: https://link.springer.com/article/10.1007/s12559-016-9425-5 
+  url: 
   source: Cognitive Computation, Springer. [J]
 
 - title: Personalized Query Auto-Completion for Large-Scale POI Search at Baidu Maps
   authors: Ying Li, Jizhou Huang, Miao Fan, Jinyi Lei, Haifeng Wang, Enhong Chen
-  url: https://dl.acm.org/doi/abs/10.1145/3394137
+  url: 
   source: Transactions on Asian and Low-Resource Language Information Processing, ACM. [J]
 
 - title: Neural HD Map Generation from Multiple Vectorized Tiles Locally Produced by Autonomous Vehicles
@@ -20,120 +20,120 @@
 
 - title: DuMapper：Towards Automatic Verification of Large-Scale POIs with Street Views at Baidu Maps
   authors: Miao Fan, Jizhou Huang, Haifeng Wang
-  url: https://doi.org/10.1145/3511808.3557097
+  url: 
   source: CIKM'22. [C]
 
 - title: Meta-Learned Spatial-Temporal POI Auto-Completion for the Search Engine at Baidu Maps
   authors: Miao Fan, Yibo Sun, Jizhou Huang, Haifeng Wang, Ying Li
-  url: https://dl.acm.org/doi/10.1145/3447548.3467058
+  url: 
   source: KDD'21. [C]
 
 - title: HGAMN：Heterogeneous Graph Attention Matching Network for Multilingual POI Retrieval at Baidu Maps
   authors: Jizhou Huang, Haifeng Wang, Yibo Sun, Miao Fan, Zhengjie Huang, Chunyuan Yuan, Yawen Li
-  url: https://dl.acm.org/doi/10.1145/3447548.3467059
+  url: 
   source: KDD'21. [C]
 
 - title: Curriculum Meta-Learning for Next POI Recommendation
   authors: Yudong Chen, Xin Wang, Miao Fan, Jizhou Huang, Shengwen Yang, Wenwu Zhu
-  url: https://dl.acm.org/doi/10.1145/3447548.3467132
+  url: 
   source: KDD'21. [C]
 
 - title: DOLG：Single-Stage Image Retrieval with Deep Orthogonal Fusion of Local and Global Features
   authors: Min Yang, Dongliang He, Miao Fan, Baorong Shi, Xuetong Xue, Fu Li, Errui Ding, Jizhou Huang
-  url: https://openaccess.thecvf.com/content/ICCV2021/papers/Yang_DOLG_Single-Stage_Image_Retrieval_With_Deep_Orthogonal_Fusion_of_Local_ICCV_2021_paper.pdf
+  url: 
   source: ICCV'21. [C]
 
 - title: Semi-Supervised Variational Reasoning for Medical Dialogue Generation
   authors: Dongdong Li, Zhaochun Ren, Pengjie Ren, Zhumin Chen, Miao Fan, Jun Ma, Maarten de Rijke
-  url: https://dl.acm.org/doi/10.1145/3404835.3462921
+  url: 
   source: SIGIR'21. [C]
 
 - title: GEDIT：Geographic-Enhanced and Dependency-Guided Tagging for Joint POI and Accessibility Extraction at Baidu Maps
   authors: Yibo Sun, Jizhou Huang, Yuanchun Yuan, Miao Fan, Haifeng Wang, Ming Liu, Bing Qin
-  url: https://dl.acm.org/doi/10.1145/3459637.3481924
+  url: 
   source: CIKM'21. [C]
 
 - title: Understanding the Impact of the Covid-19 Pandemic on Transportation-related Behaviors with Human Mobility Data
   authors: Jizhou Huang, Haifeng Wang, Miao Fan, An Zhuo, Yibo Sun, Ying Li
-  url: https://dl.acm.org/doi/10.1145/3394486.3412856
+  url: 
   source: KDD'20. [C]
 
 - title: Personalized Prefix Embedding for POI Auto-Completion in the Search Engine of Baidu Maps
   authors: Jizhou Huang, Haifeng Wang, Miao Fan, An Zhuo, Ying Li
-  url: https://dl.acm.org/doi/10.1145/3394486.3403318
+  url: 
   source: KDD'20. [C]
 
 - title: A Reinforced Semi-supervised Neural Network for Helpful Review Identification
   authors: Yue Feng, Miao Fan, Mingming Sun, Ping Li
-  url: https://dl.acm.org/doi/pdf/10.1145/3340531.3412101
+  url: 
   source: CIKM'20. [C]
 
 - title: A Multistage Ranking Strategy for Personalized Hotel Recommendation with Human Mobility Data
   authors: Yiwei Li, Miao Fan, Jizhou Huang, Kan Li
-  url: https://dl.acm.org/doi/abs/10.1145/3409256.3409810
+  url: 
   source: ICTIR'20. [C]
 
 - title: MOBIUS：Towards the Next Generation of Query-Ad Matching in Baidu's Sponsored Search
   authors: Miao Fan, Jiacheng Guo, Shuai Zhu, Shuo Miao, Mingming Sun, Ping Li
-  url: https://dl.acm.org/citation.cfm?id=3330651
+  url: 
   source: KDD'19. [C]
 
 - title: MONOPOLY：Learning to Price Public Facilities for Revaluing Private Properties with Large-scale Urban Data
   authors: Miao Fan, Jizhou Huang, An Zhuo, Ying Li, Ping Li, Haifeng Wang
-  url: https://dl.acm.org/citation.cfm?id=3357810
+  url: 
   source: CIKM'19. [C]
 
 - title: Large Margin Prototypical Network for Few-shot Relation Classification with Fine-grained Features
   authors: Miao Fan, Yeqi Bai, Mingming Sun, Ping Li
-  url: https://dl.acm.org/doi/10.1145/3357384.3358100
+  url: 
   source: CIKM'19. [C]
 
 - title: Reinforced Product Metadata Selection for Helpfulness Assessment of Reviews
   authors: Miao Fan, Chao Feng, Mingming Sun, Ping Li
-  url: https://www.aclweb.org/anthology/D19-1177
+  url: 
   source: EMNLP'19. [C]
 
 - title: Product-Aware Helpfulness Prediction of Online Reviews
   authors: Miao Fan, Chao Feng, Lin Guo, Mingming Sun, Ping Li
-  url: https://dl.acm.org/citation.cfm?id=3313523
+  url: 
   source: WWW'19. [C]
 
 - title: Reading Customer Reviews to Answer Product-related Questions
   authors: Miao Fan, Chao Feng, Mingming Sun, Ping Li, Haifeng Wang
-  url: https://epubs.siam.org/doi/abs/10.1137/1.9781611975673.64
+  url: 
   source: SDM'19. [C]
 
 - title: Learning to Discover Curbside Parking Spaces from Vehicle Trajectories
   authors: Yuxin Wen, Jizhou Huang, Chongli Zhu, Miao Fan, Ying Li
-  url: https://ieeexplore.ieee.org/abstract/document/9006084
+  url: 
   source: IEEE BigData'19. [C]
 
 - title: A Globalization-Semantic Matching Neural Network for Paraphrase Identification
   authors: Miao Fan, Wutao Lin, Mingming Sun, Yue Feng, Ping Li
-  url: https://dl.acm.org/citation.cfm?id=3272004
+  url: 
   source: CIKM'18. [C]
 
 - title: Learning Embedding Representations for Knowledge Inference on Imperfect and Incomplete Repositories
   authors: Miao Fan, Qiang Zhou, Thomas Fang Zheng
-  url: https://ieeexplore.ieee.org/abstract/document/7817034
+  url: 
   source: WI-IAT'16. [C]
 
 - title: Jointly Embedding Relations and Mentions for Knowledge Population
   authors: Miao Fan, Kai Cao, Yifan He, Ralph Grishman
-  url: https://aclanthology.org/R15-1026/
+  url: 
   source: RANLP'15. [C]
 
 - title: Large Margin Nearest Neighbor Embedding for Knowledge Representation
   authors: Miao Fan, Qiang Zhou, Thomas Fang Zheng, Ralph Grishman
-  url: https://ieeexplore.ieee.org/abstract/document/7396779 
+  url: 
   source: WI-IAT'15. [C]
 
 - title: Distant Supervision for Relation Extraction with Matrix Completion
   authors: Miao Fan, Deli Zhao, Qiang Zhou, Zhiyuan Liu, Thomas Fang Zheng, Edward Y. Chang
-  url: https://aclweb.org/anthology/P14-1079
+  url: 
   source: ACL'14. [C]
 
 - title: Content-based Semantic Tag Ranking for Recommendation
   authors: Miao Fan, Qiang Zhou, Thomas Fang Zheng
-  url: https://ieeexplore.ieee.org/abstract/document/6511899 
+  url: 
   source: WI-IAT'12. [C]

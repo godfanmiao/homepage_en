@@ -20,8 +20,8 @@ resume_contact_email:           "miao.fan@ieee.org"
 # resume_contact_telephone:       "(+86)13581700448"
 # resume_contact_address:         "Beijing, P.R.China"
 
-resume_header_contact_info:     "miao.fan@ieee.org"
-display_header_contact_info:    "false"
+resume_header_contact_info:     "https://scholar.google.com/citations?user=aPlHReAAAAAJ"
+display_header_contact_info:    "true"
 
 resume_header_intro: "
 <p>Principle scientist and Head of AI at Navinfo Co., Ltd</p>

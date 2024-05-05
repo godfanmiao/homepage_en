@@ -1,40 +1,40 @@
 - title: GNMap：矢量化高精地图的多轮融合生成软件 （V1.0）
-  authors: Miao Fan, Yi Yao, Xiangbo Song
+  authors: 范淼、姚毅、宋向勃
   url: 
-  description: Registration No. (CN)：2024SR0080866 
+  description: 中国计算机软件著作权登记号：2024SR0080866 
 
-# - title: STVec：基于车载相机的高精矢量化街景在线生成软件（V1.0）
-#   authors: 姚毅、范淼
-#   url: 
-#   description: Registration No. (CN)：XXXX
-
-- title: UNiNet-Pro：高精地图通用目标的云上一体视觉感知平台（V1.0）
-  authors: Miao Fan, Yi Yao, Xiangbo Song, Xiang Li
+- title: STVec：基于车载相机的高精矢量化街景在线生成软件 （V1.0）
+  authors: 姚毅、范淼
   url: 
-  description: Registration No. (CN)：2023SR1508587
+  description: 中国计算机软件著作权登记号：2024SR0305968
 
-# - title: UNiNet-Lite：高精地图通用目标的端上一体视觉感知系统（V1.0）
-#   authors: 范淼、姚毅、宋向勃、李翔
-#   url: 
-#   description: Registration No. (CN)：XXXX
-
-- title: UNiNet-Backbone：高精地图全要素的视觉自注意学习与大规模挖掘平台（V1.0 & V2.0）
-  authors: Miao Fan, Yi Yao, Xuxu Kong
+- title: UNiNet-Pro：高精地图通用目标的云上一体视觉感知平台 （V1.0）
+  authors: 范淼、姚毅、宋向勃、李翔
   url: 
-  description: Registration No. (CN)：2023SR0762065 & 2023SR1021672
+  description: 中国计算机软件著作权登记号：2023SR1508587
 
-- title: UNiNet-Cls：自然场景下交通标志的实时视觉识别软件（V1.0）
-  authors: Miao Fan, Yi Yao
+- title: UNiNet-Lite：高精地图通用目标的端上一体视觉感知系统 （V1.0）
+  authors: 范淼、姚毅、宋向勃、李翔
   url: 
-  description: Registration No. (CN)：2023SR1029817
+  description: 中国计算机软件著作权登记号：2024SR0447708
 
-- title: UNiNet-Seg：自然场景下道路要素的实时视觉分割与提取软件（V1.0）
-  authors: Yi Yao, Miao Fan
+- title: UNiNet-Backbone：高精地图全要素的视觉自注意学习与大规模挖掘平台 （V1.0 & V2.0）
+  authors: 范淼、姚毅、孔旭旭
   url: 
-  description: Registration No. (CN)：2023SR1508594
+  description: 中国计算机软件著作权登记号：2023SR0762065 & 2023SR1021672
 
-- title: UNiNet-Det：自然场景下道路目标的实时视觉检测软件（V1.0）
-  authors: Yi Yao, Miao Fan, Xiangbo Song
+- title: UNiNet-Cls：自然场景下交通标志的实时视觉识别软件 （V1.0）
+  authors: 范淼、姚毅
   url: 
-  description: Registration No. (CN)：2024SR0078845
+  description: 中国计算机软件著作权登记号：2023SR1029817
+
+- title: UNiNet-Seg：自然场景下道路要素的实时视觉分割与提取软件 （V1.0）
+  authors: 姚毅、范淼
+  url: 
+  description: 中国计算机软件著作权登记号：2023SR1508594
+
+- title: UNiNet-Det：自然场景下道路目标的实时视觉检测软件 （V1.0）
+  authors: 姚毅、范淼、宋向勃
+  url: 
+  description: 中国计算机软件著作权登记号：2024SR0078845
 

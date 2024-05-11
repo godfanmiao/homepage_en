@@ -103,6 +103,26 @@
               </section>
               {% endif %}
 
+              
+              {% if site.resume_section_associations %}
+              <!-- begin Associations -->
+              <section class="content-section">
+
+                  <header class="section-header">
+                      <h2>Social Services</h2>
+                  </header>
+
+                  {% for association in site.data.associations %}
+                  <div class="resume-item" itemscope itemprop="memberOf" itemtype="http://schema.org/Organization">
+                      <h3> {% if association.url %} <a href="{{ association.url }}"> {{ association.organization }} </a>{% else %}{{ association.organization }}{% endif %}</h3>
+                      <p>{{ association.role }}  </p>
+                  </div>
+                  {% endfor %}
+
+              </section>
+              <!-- end Associations -->
+              {% endif %}
+
               {% if site.resume_section_grants %}
               <section class="content-section">
 
@@ -140,25 +160,6 @@
 
               </section>
               <!-- end Projects -->
-              {% endif %}
-
-              {% if site.resume_section_associations %}
-              <!-- begin Associations -->
-              <section class="content-section">
-
-                  <header class="section-header">
-                      <h2>Social Services</h2>
-                  </header>
-
-                  {% for association in site.data.associations %}
-                  <div class="resume-item" itemscope itemprop="memberOf" itemtype="http://schema.org/Organization">
-                      <h3> {% if association.url %} <a href="{{ association.url }}"> {{ association.organization }} </a>{% else %}{{ association.organization }}{% endif %}</h3>
-                      <p>{{ association.role }}  </p>
-                  </div>
-                  {% endfor %}
-
-              </section>
-              <!-- end Associations -->
               {% endif %}
 
               {% if site.resume_section_articles %}

@@ -3,10 +3,20 @@
   url: 
   description: 中国计算机软件著作权登记号：2024SR0080866 
 
+- title: Video2HDMap：基于车采视频的自动驾驶地图流式生成软件 （V1.0）
+  authors: 姚毅、范淼、孔旭旭
+  url: 
+  description: 中国计算机软件著作权登记号：2024SRXXXXXXX
+
 - title: STVec：基于车载相机的高精矢量化街景在线生成软件 （V1.0）
   authors: 姚毅、范淼
   url: 
   description: 中国计算机软件著作权登记号：2024SR0305968
+
+- title: RV1126-TLR：基于车载RV1126芯片的交通灯实时感知软件（V1.0）
+  authors: 孔旭旭、范淼、姚毅
+  url: 
+  description: 中国计算机软件著作权登记号：2024SRXXXXXXX
 
 - title: UNiNet-Pro：高精地图通用目标的云上一体视觉感知平台 （V1.0）
   authors: 范淼、姚毅、宋向勃、李翔

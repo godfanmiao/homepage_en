@@ -1,12 +1,12 @@
-- title: Distributed Representation Learning for Knowledge Graphs with Entity Descriptions
-  authors: Miao Fan, Qiang Zhou, Thomas Fang Zheng, Ralph Grishman
-  url: 
-  source: Pattern Recognition Letters, Elsevier. [J]
+# - title: Distributed Representation Learning for Knowledge Graphs with Entity Descriptions
+#   authors: Miao Fan, Qiang Zhou, Thomas Fang Zheng, Ralph Grishman
+#   url: 
+#   source: Pattern Recognition Letters, Elsevier. [J]
 
-- title: Probabilistic Belief Embedding for Large-Scale Knowledge Population
-  authors: Miao Fan, Qiang Zhou, Andrew Abel, Thomas Fang Zheng, Ralph Grishman
-  url: 
-  source: Cognitive Computation, Springer. [J]
+# - title: Probabilistic Belief Embedding for Large-Scale Knowledge Population
+#   authors: Miao Fan, Qiang Zhou, Andrew Abel, Thomas Fang Zheng, Ralph Grishman
+#   url: 
+#   source: Cognitive Computation, Springer. [J]
 
 - title: Personalized Query Auto-Completion for Large-Scale POI Search at Baidu Maps
   authors: Ying Li, Jizhou Huang, Miao Fan, Jinyi Lei, Haifeng Wang, Enhong Chen
@@ -43,10 +43,10 @@
   url: 
   source: ICCV'21. [C]
 
-- title: Semi-Supervised Variational Reasoning for Medical Dialogue Generation
-  authors: Dongdong Li, Zhaochun Ren, Pengjie Ren, Zhumin Chen, Miao Fan, Jun Ma, Maarten de Rijke
-  url: 
-  source: SIGIR'21. [C]
+# - title: Semi-Supervised Variational Reasoning for Medical Dialogue Generation
+#   authors: Dongdong Li, Zhaochun Ren, Pengjie Ren, Zhumin Chen, Miao Fan, Jun Ma, Maarten de Rijke
+#   url: 
+#   source: SIGIR'21. [C]
 
 - title: GEDIT：Geographic-Enhanced and Dependency-Guided Tagging for Joint POI and Accessibility Extraction at Baidu Maps
   authors: Yibo Sun, Jizhou Huang, Yuanchun Yuan, Miao Fan, Haifeng Wang, Ming Liu, Bing Qin
@@ -63,77 +63,77 @@
   url: 
   source: KDD'20. [C]
 
-- title: A Reinforced Semi-supervised Neural Network for Helpful Review Identification
-  authors: Yue Feng, Miao Fan, Mingming Sun, Ping Li
-  url: 
-  source: CIKM'20. [C]
+# - title: A Reinforced Semi-supervised Neural Network for Helpful Review Identification
+#   authors: Yue Feng, Miao Fan, Mingming Sun, Ping Li
+#   url: 
+#   source: CIKM'20. [C]
 
-- title: A Multistage Ranking Strategy for Personalized Hotel Recommendation with Human Mobility Data
-  authors: Yiwei Li, Miao Fan, Jizhou Huang, Kan Li
-  url: 
-  source: ICTIR'20. [C]
+# - title: A Multistage Ranking Strategy for Personalized Hotel Recommendation with Human Mobility Data
+#   authors: Yiwei Li, Miao Fan, Jizhou Huang, Kan Li
+#   url: 
+#   source: ICTIR'20. [C]
 
-- title: MOBIUS：Towards the Next Generation of Query-Ad Matching in Baidu's Sponsored Search
-  authors: Miao Fan, Jiacheng Guo, Shuai Zhu, Shuo Miao, Mingming Sun, Ping Li
-  url: 
-  source: KDD'19. [C]
+# - title: MOBIUS：Towards the Next Generation of Query-Ad Matching in Baidu's Sponsored Search
+#   authors: Miao Fan, Jiacheng Guo, Shuai Zhu, Shuo Miao, Mingming Sun, Ping Li
+#   url: 
+#   source: KDD'19. [C]
 
-- title: MONOPOLY：Learning to Price Public Facilities for Revaluing Private Properties with Large-scale Urban Data
-  authors: Miao Fan, Jizhou Huang, An Zhuo, Ying Li, Ping Li, Haifeng Wang
-  url: 
-  source: CIKM'19. [C]
+# - title: MONOPOLY：Learning to Price Public Facilities for Revaluing Private Properties with Large-scale Urban Data
+#   authors: Miao Fan, Jizhou Huang, An Zhuo, Ying Li, Ping Li, Haifeng Wang
+#   url: 
+#   source: CIKM'19. [C]
 
-- title: Large Margin Prototypical Network for Few-shot Relation Classification with Fine-grained Features
-  authors: Miao Fan, Yeqi Bai, Mingming Sun, Ping Li
-  url: 
-  source: CIKM'19. [C]
+# - title: Large Margin Prototypical Network for Few-shot Relation Classification with Fine-grained Features
+#   authors: Miao Fan, Yeqi Bai, Mingming Sun, Ping Li
+#   url: 
+#   source: CIKM'19. [C]
 
-- title: Reinforced Product Metadata Selection for Helpfulness Assessment of Reviews
-  authors: Miao Fan, Chao Feng, Mingming Sun, Ping Li
-  url: 
-  source: EMNLP'19. [C]
+# - title: Reinforced Product Metadata Selection for Helpfulness Assessment of Reviews
+#   authors: Miao Fan, Chao Feng, Mingming Sun, Ping Li
+#   url: 
+#   source: EMNLP'19. [C]
 
-- title: Product-Aware Helpfulness Prediction of Online Reviews
-  authors: Miao Fan, Chao Feng, Lin Guo, Mingming Sun, Ping Li
-  url: 
-  source: WWW'19. [C]
+# - title: Product-Aware Helpfulness Prediction of Online Reviews
+#   authors: Miao Fan, Chao Feng, Lin Guo, Mingming Sun, Ping Li
+#   url: 
+#   source: WWW'19. [C]
 
-- title: Reading Customer Reviews to Answer Product-related Questions
-  authors: Miao Fan, Chao Feng, Mingming Sun, Ping Li, Haifeng Wang
-  url: 
-  source: SDM'19. [C]
+# - title: Reading Customer Reviews to Answer Product-related Questions
+#   authors: Miao Fan, Chao Feng, Mingming Sun, Ping Li, Haifeng Wang
+#   url: 
+#   source: SDM'19. [C]
 
-- title: Learning to Discover Curbside Parking Spaces from Vehicle Trajectories
-  authors: Yuxin Wen, Jizhou Huang, Chongli Zhu, Miao Fan, Ying Li
-  url: 
-  source: IEEE BigData'19. [C]
+# - title: Learning to Discover Curbside Parking Spaces from Vehicle Trajectories
+#   authors: Yuxin Wen, Jizhou Huang, Chongli Zhu, Miao Fan, Ying Li
+#   url: 
+#   source: IEEE BigData'19. [C]
 
-- title: A Globalization-Semantic Matching Neural Network for Paraphrase Identification
-  authors: Miao Fan, Wutao Lin, Mingming Sun, Yue Feng, Ping Li
-  url: 
-  source: CIKM'18. [C]
+# - title: A Globalization-Semantic Matching Neural Network for Paraphrase Identification
+#   authors: Miao Fan, Wutao Lin, Mingming Sun, Yue Feng, Ping Li
+#   url: 
+#   source: CIKM'18. [C]
 
-- title: Learning Embedding Representations for Knowledge Inference on Imperfect and Incomplete Repositories
-  authors: Miao Fan, Qiang Zhou, Thomas Fang Zheng
-  url: 
-  source: WI-IAT'16. [C]
+# - title: Learning Embedding Representations for Knowledge Inference on Imperfect and Incomplete Repositories
+#   authors: Miao Fan, Qiang Zhou, Thomas Fang Zheng
+#   url: 
+#   source: WI-IAT'16. [C]
 
-- title: Jointly Embedding Relations and Mentions for Knowledge Population
-  authors: Miao Fan, Kai Cao, Yifan He, Ralph Grishman
-  url: 
-  source: RANLP'15. [C]
+# - title: Jointly Embedding Relations and Mentions for Knowledge Population
+#   authors: Miao Fan, Kai Cao, Yifan He, Ralph Grishman
+#   url: 
+#   source: RANLP'15. [C]
 
-- title: Large Margin Nearest Neighbor Embedding for Knowledge Representation
-  authors: Miao Fan, Qiang Zhou, Thomas Fang Zheng, Ralph Grishman
-  url: 
-  source: WI-IAT'15. [C]
+# - title: Large Margin Nearest Neighbor Embedding for Knowledge Representation
+#   authors: Miao Fan, Qiang Zhou, Thomas Fang Zheng, Ralph Grishman
+#   url: 
+#   source: WI-IAT'15. [C]
 
-- title: Distant Supervision for Relation Extraction with Matrix Completion
-  authors: Miao Fan, Deli Zhao, Qiang Zhou, Zhiyuan Liu, Thomas Fang Zheng, Edward Y. Chang
-  url: 
-  source: ACL'14. [C]
+# - title: Distant Supervision for Relation Extraction with Matrix Completion
+#   authors: Miao Fan, Deli Zhao, Qiang Zhou, Zhiyuan Liu, Thomas Fang Zheng, Edward Y. Chang
+#   url: 
+#   source: ACL'14. [C]
 
-- title: Content-based Semantic Tag Ranking for Recommendation
-  authors: Miao Fan, Qiang Zhou, Thomas Fang Zheng
-  url: 
-  source: WI-IAT'12. [C]
+# - title: Content-based Semantic Tag Ranking for Recommendation
+#   authors: Miao Fan, Qiang Zhou, Thomas Fang Zheng
+#   url: 
+#   source: WI-IAT'12. [C]

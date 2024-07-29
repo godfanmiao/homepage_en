@@ -51,7 +51,7 @@ resume_section_projects:          false
 resume_section_associations:    true
 resume_section_grants:          false
 resume_section_monographs:        true
-resume_section_articles:        false
+resume_section_articles:        true
 resume_section_patents:        false
 resume_section_softwares:        false
 resume_section_media:        false
